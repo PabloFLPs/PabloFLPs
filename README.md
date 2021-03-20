@@ -4,7 +4,7 @@
 [![Linkedin_Badge](https://img.shields.io/badge/linkedin-%20-orange)](https://www.linkedin.com/in/pablo-felipe-lnkdn/)
 [![Tweeter_Badge](https://img.shields.io/badge/twitter-%20-orange)](https://twitter.com/pablo_felps)
 
-[![Bio Badge](https://img.shields.io/static/v1?label=Hobbies&message=https://www.https://github.com/PabloFLPs/hobbies="Code,Gaming,Animes,Doramas"&color=orange)](https://www.github.com/PabloFLPs/)
+[![Bio Badge](https://img.shields.io/static/v1?label=hobbies&message=https://www.https://github.com/PabloFLPs/hobbies="Code,Gaming,Animes,Doramas"&color=orange)](https://www.github.com/PabloFLPs/)
 
 
 <!--
