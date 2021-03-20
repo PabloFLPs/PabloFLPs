@@ -3,7 +3,7 @@
 [Hotmail Badge] pablofelipe1999@hotmail.com
 [![Linkedin Badge] ](https://www.linkedin.com/in/pablo-felipe-lnkdn/)
 
-[![Linkedin Badge](https://img.shields.io/twitter/url?style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fpablo_felps)](https://www.linkedin.com/in/alexandre-martins-agronault/)
+[![Linkedin Badge](https://img.shields.io/twitter/url?style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fpablo_felps)](https://twitter.com/pablo_felps)
 
 
 <!--
