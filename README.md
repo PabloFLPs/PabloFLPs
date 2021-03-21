@@ -12,10 +12,8 @@
 ## Stats
 
 <p align="center">
-<div>
 <img align="left" width="325px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloFLPs&layout=compact&hide=c&theme=dark&hide_border=true"/>
 <img width="325px" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloFLPs&theme=dark&hide_border=true" alt="PabloFLPs" />
-</div>
 </p>
 
 <!--
