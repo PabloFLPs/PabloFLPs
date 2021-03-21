@@ -10,13 +10,12 @@
 [![Bio Badge](https://img.shields.io/static/v1?label=hobbies&message=https://www.github.com/PabloFLPs/hobbies="Code%Gaming%Animes%Doramas"&color=orange)](https://www.github.com/PabloFLPs/)
 
 ## Stats
-
-<img align="center">
+<p align="center">
   <div>
     <img width="325px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloFLPs&layout=compact&hide=c&theme=dark&hide_border=true"/>
-    <img width="325px" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloFLPs&theme=dark&hide_border=true" alt="PabloFLPs" />
+    <img width="325px" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloFLPs&theme=dark&hide_border=true"/>
   </div>
-</img>
+</p>
 
 <!--
 **PabloFLPs/PabloFLPs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
