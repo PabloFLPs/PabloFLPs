@@ -11,8 +11,8 @@
 
 ## Stats
 <div>
-<img align="left" width="325px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanloFLPs&layout=compact&hide=c&theme=dark&hide_border=true"/>
-<img width="325px" src="https://github-readme-streak-stats.herokuapp.com/?user=PanloFLPs&theme=dark&hide_border=true" alt="PanloFLPs" />
+<img align="left" width="325px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloFLPs&layout=compact&hide=c&theme=dark&hide_border=true"/>
+<img width="325px" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloFLPs&theme=dark&hide_border=true" alt="PabloFLPs" />
 </div>
 
 <!--
