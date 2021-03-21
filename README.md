@@ -1,8 +1,6 @@
 # Pablo Felipe (PabloFLPs) 🦁
 
-<p align="center">
-<img width="1533" height="338" src="https://ibb.co/sCdyvsc">
-</p>
+<a href="https://ibb.co/sCdyvsc"><img src="https://i.ibb.co/kJsQgqz/panoramic.png" alt="panoramic" border="0" /></a>
 
 [![Mail_Badge](https://img.shields.io/badge/mail-%20-orange)](mailto:pablofelipe1999@hotmail.com)
 [![Linkedin_Badge](https://img.shields.io/badge/linkedin-%20-orange)](https://www.linkedin.com/in/pablo-felipe-lnkdn/)
