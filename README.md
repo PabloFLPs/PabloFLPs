@@ -1,7 +1,7 @@
 # Pablo Felipe (PabloFLPs) 🦁
 
 <p align="center">
-<a href="https://app.rocketseat.com.br/me/pablo-felps"><img src="https://i.ibb.co/kJsQgqz/panoramic.png" alt="panoramic" border="0" /></a>
+  <a href="https://app.rocketseat.com.br/me/pablo-felps"><img src="https://i.ibb.co/kJsQgqz/panoramic.png" alt="panoramic" border="0" /></a>
 </p>
 
 [![Mail_Badge](https://img.shields.io/badge/mail-%20-orange)](mailto:pablofelipe1999@hotmail.com)
@@ -12,10 +12,10 @@
 ## Stats
 
 <p align="center">
-<div>
-<img width="325px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloFLPs&layout=compact&hide=c&theme=dark&hide_border=true"/>
-<img width="325px" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloFLPs&theme=dark&hide_border=true" alt="PabloFLPs" />
-</div>
+  <div>
+    <img width="325px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloFLPs&layout=compact&hide=c&theme=dark&hide_border=true"/>
+    <img width="325px" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloFLPs&theme=dark&hide_border=true" alt="PabloFLPs" />
+  </div>
 </p>
 
 <!--
