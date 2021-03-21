@@ -11,11 +11,11 @@
 
 ## Stats
 
-<p align="left">
-<img align="center" width="325px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloFLPs&layout=compact&hide=c&theme=dark&hide_border=true"/>
-</p>
-<p align="right">
-<img align="center" width="325px" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloFLPs&theme=dark&hide_border=true" alt="PabloFLPs" />
+<p align="center">
+<div>
+<img width="325px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloFLPs&layout=compact&hide=c&theme=dark&hide_border=true"/>
+<img width="325px" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloFLPs&theme=dark&hide_border=true" alt="PabloFLPs" />
+</div>
 </p>
 
 <!--
