@@ -1,6 +1,23 @@
 # Pablo Felipe (PabloFLPs) 🦁
+
+## About me:
+**Hi, I'm Pablo Felps!**
+
+- 🚀 I'm a back-end developer at [LeCode](https://github.com/LeCode)
+- 💻 I'm an engineering computer student at [CEFET-MG](https://github.com/CEFET-MG)
+- ⚙️ I'm a marketing analyst at [Commit Jr.](https://github.com/CommitJr)
+- 😎 Fun fact: I've watched over 200 animes!!
+
+<!--
+- 🔥
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+-->
+
 <p align="center">
-  <a href="https://app.rocketseat.com.br/me/pablo-felps"><img src="https://i.ibb.co/kJsQgqz/panoramic.png" alt="panoramic" border="0" /></a>
+  <a href="https://app.rocketseat.com.br/me/pablo-felps"><img src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/rocketseat.png" alt="panoramic" border="0" /></a>
 </p>
 
 <!--
@@ -28,21 +45,11 @@
 **PabloFLPs/PabloFLPs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## About me:
-**Hi, I'm Pablo Felps!**
-
-- 🚀 I'm a back-end developer at [LeCode](https://github.com/LeCode)
-- 💻 I'm an engineering computer student at [CEFET-MG](https://github.com/CEFET-MG)
-- ⚙️ I'm a marketing analyst at [Commit Jr.](https://github.com/CommitJr)
-- 😎 Fun fact: I've watched over 200 animes!!
-
-<!--
-- 🔥
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--->
+## Stats
+<p align="center">
+  <img width="325px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloFLPs&layout=compact&hide=c&theme=dark&hide_border=true"/>
+  <img width="325px" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloFLPs&theme=dark&hide_border=true"/>
+</p>
 
 ## Languages and tools:
 <img align="left" height="30" width="30" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/c.png">
@@ -50,9 +57,3 @@
 <img align="left" height="30" width="30" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/python.png">
 <img align="left" height="28" width="30" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/javascript.png">
 <img align="left" height="30" width="30" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/node.png">
-
-## Stats
-<p align="center">
-  <img width="325px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloFLPs&layout=compact&hide=c&theme=dark&hide_border=true"/>
-  <img width="325px" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloFLPs&theme=dark&hide_border=true"/>
-</p>
