@@ -48,8 +48,6 @@
 <img align="left" height="28" width="30" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/javascript.png">
 <img align="left" height="30" width="30" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/node.png">
 <img align="left" height="30" width="30" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/python.png">
-<img align="left" height="30" width="30" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/java.png">
-<img align="left" height="30" width="30" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/c.png">
 
 ## Stats
 <p align="center">
