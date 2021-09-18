@@ -3,11 +3,12 @@
   <a href="https://app.rocketseat.com.br/me/pablo-felps"><img src="https://i.ibb.co/kJsQgqz/panoramic.png" alt="panoramic" border="0" /></a>
 </p>
 
-**<img src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/megumin.png" width="200"> Hi, I'm Pablo Felps!**
+[![Megumin](https://github.com/PabloFLPs/PabloFLPs/blob/main/images/megumin.png)]()
+<!--**<img src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/megumin.png" width="200"> Hi, I'm Pablo Felps!**-->
 
 [![Mail_Badge](https://img.shields.io/badge/mail-%20-orange)](mailto:pablofelipe1999@hotmail.com)
 [![Linkedin_Badge](https://img.shields.io/badge/linkedin-%20-orange)](https://www.linkedin.com/in/pablo-felipe-lnkdn/)
-[![Tweeter_Badge](https://img.shields.io/badge/twitter-%20-orange)](https://twitter.com/pablo_felps)
+[![Twitter_Badge](https://img.shields.io/badge/twitter-%20-orange)](https://twitter.com/pablo_felps)
 [![Bio Badge](https://img.shields.io/static/v1?label=hobbies&message=https://www.github.com/PabloFLPs/hobbies="Code%Gaming%Animes%Doramas"&color=orange)](https://www.github.com/PabloFLPs/)
 
 ## Stats
