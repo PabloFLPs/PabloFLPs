@@ -47,8 +47,8 @@
 
 ## Stats
 <p align="center">
-  <img width="325px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloFLPs&layout=compact&hide=c&theme=dark&hide_border=true"/>
-  <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloFLPs&theme=dark&hide_border=true"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloFLPs&layout=compact&hide=c&theme=dark&hide_border=true"/>
+  <img width="405px" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloFLPs&theme=dark&hide_border=true"/>
 </p>
 
 ## Languages and tools:
