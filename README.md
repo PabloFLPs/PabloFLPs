@@ -1,7 +1,10 @@
 # Pablo Felipe (PabloFLPs) 🦁
 Turn on default dark theme for best experience :)
 
-<img align="" height="135" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/jujutsu_homies.png">
+<p>
+  <a href="https://jujutsu-kaisen.fandom.com/wiki/Jujutsu_Kaisen_Wiki">
+  <img height="135" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/jujutsu_homies.png">
+</p>
 
 ## About me:
 **Hi, I'm Pablo Felps!**
