@@ -1,7 +1,7 @@
 # Pablo Felipe (PabloFLPs) 🦁
 Turn on default dark theme for best experience :)
 
-<img align="" height="155" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/jujutsu_homies.png">
+<img align="" height="130" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/jujutsu_homies.png">
 
 ## About me:
 **Hi, I'm Pablo Felps!**
