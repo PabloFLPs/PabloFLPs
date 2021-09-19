@@ -3,7 +3,8 @@ Turn on default dark theme for best experience :)
 
 <p>
   <a href="https://jujutsu-kaisen.fandom.com/wiki/Jujutsu_Kaisen_Wiki">
-  <img height="135" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/jujutsu_homies.png">
+    <img height="135" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/jujutsu_homies.png"/>
+  </a>
 </p>
 
 ## About me:
