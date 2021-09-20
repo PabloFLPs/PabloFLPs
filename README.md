@@ -66,11 +66,21 @@ Turn on default dark theme for best experience :)
 </p>
 
 ## Languages and tools:
-<img align="left" height="30" width="30" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/c.png">
-<img align="left" height="30" width="30" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/java.png">
-<img align="left" height="30" width="30" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/python.png">
-<img align="left" height="28" width="30" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/javascript.png">
-<img height="30" width="30" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/node.png">
+<a href="https://devdocs.io/c/">
+  <img align="left" width="30" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/c.png">
+</a>
+<a href="https://docs.oracle.com/javase/tutorial/java/index.html">
+  <img align="left" width="26" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/java.png">
+</a>
+<a href="https://docs.python.org/3/">
+  <img align="left" width="30" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/python.png">
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+  <img align="left" width="26" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/javascript.png">
+</a>
+<a href="https://nodejs.org/pt-br/docs/">
+  <img width="30" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/node.png">
+</a>
 
 * * *
 
