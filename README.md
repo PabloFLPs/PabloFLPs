@@ -16,8 +16,9 @@ Turn on default dark theme for best experience :)
 - Below you can check my first back-end project. I was part of the ioasys CAMP 2021; me and my team developed a platform to make metrics about "diversity" in the working anbient on a company.
 
 <p align="center">
-  [![Diversight]()](https://heroku-diversight.herokuapp.com)
-</p> 
+  <a href="https://heroku-diversight.herokuapp.com"><img width="100" src="https://github.com/PabloFLPs/ioasys-CAMP-2021-diversight/blob/master/logo/diversight.png"/></a>
+</p>
+  
 <!--
 - 🔥
 - 🔭 I’m currently working on ...
