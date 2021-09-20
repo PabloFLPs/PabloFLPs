@@ -13,7 +13,8 @@ Turn on default dark theme for best experience :)
 - 🚀 I'm a back-end developer at [LeCode](https://github.com/LeCode)
 - 💻 I'm an engineering computer student at [CEFET-MG](https://github.com/CEFET-MG)
 - ⚙️ I'm a marketing analyst at [Commit Jr.](https://github.com/CommitJr)
-- 😎 Fun fact: I've watched over 200 animes!!
+
+<img style="position:relative" left="8273641" height="16" src="https://github.com/PabloFLPs/Pixel-Arts/blob/master/My%20PixelArts%20(Piskel%20-%20Pixel%20Studio)/SecondPixelArt_Pokeball_Animation.gif"/> Fun fact: I've watched over 200 animes!!
 
 <!--
 - 🔥
