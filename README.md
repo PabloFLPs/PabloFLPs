@@ -13,7 +13,6 @@ Turn on default dark theme for best experience :)
 - 🚀 I'm a back-end developer at [LeCode](https://github.com/LeCode)
 - 💻 I'm an engineering computer student at [CEFET-MG](https://github.com/CEFET-MG)
 - ⚙️ I'm a marketing analyst at [Commit Jr.](https://github.com/CommitJr)
-
 - Below you can check my first back-end project. I was part of the ioasys CAMP 2021; me and my team developed a platform to make metrics about "diversity" in the working anbient on a company.
 
 <p align="center">
