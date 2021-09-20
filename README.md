@@ -13,11 +13,20 @@ Turn on default dark theme for best experience :)
 - 🚀 I'm a back-end developer at [LeCode](https://github.com/LeCode)
 - 💻 I'm an engineering computer student at [CEFET-MG](https://github.com/CEFET-MG)
 - ⚙️ I'm a marketing analyst at [Commit Jr.](https://github.com/CommitJr)
-- Below you can check my first back-end project. I was part of the ioasys CAMP 2021; me and my team developed a platform to make metrics about "diversity" in the working anbient on a company.
 
-<p align="center">
-  <a href="https://heroku-diversight.herokuapp.com"><img width="200" src="https://github.com/PabloFLPs/ioasys-CAMP-2021-diversight/blob/master/logo/diversight_megumin.png"/></a>
-</p>
+<img height="16" src="https://github.com/PabloFLPs/Pixel-Arts/blob/master/My%20PixelArts%20(Piskel%20-%20Pixel%20Studio)/SecondPixelArt_Pokeball_Animation.gif"/> Fun fact: I've watched over 200 animes!!
+
+## Projects
+
+- Below you can access a link to my first back-end project deployed on Heroku. It was made utilizing JavaScript as language, and Sequelize as ORM with Postgres as database. 
+
+### Diversight:
+
+<a href="https://heroku-diversight.herokuapp.com">
+  <img align="left" width="250" src="https://github.com/PabloFLPs/ioasys-CAMP-2021-diversight/blob/master/logo/diversight_megumin.png"/>
+</a>
+
+**Description:** I was part of the ioasys CAMP 2021; my team and I developed a platform to measure the “diversity” in a company's workplace, with the goal of making the environment better for all cultures, sexualities, ethnicities and people with physical disabilities.
   
 <!--
 - 🔥
@@ -49,8 +58,6 @@ Turn on default dark theme for best experience :)
 [![Twitter_Badge](https://img.shields.io/badge/twitter-%20-orange)](https://twitter.com/pablo_felps)
 [![DevCommunity](https://img.shields.io/badge/dev.to-%20-orange)](https://dev.to/pablofelps)
 [![Bio Badge](https://img.shields.io/static/v1?label=hobbies&message=https://www.github.com/PabloFLPs/hobbies="Code%Gaming%Animes%Doramas"&color=orange)](https://www.github.com/PabloFLPs/)
-
-<img height="16" src="https://github.com/PabloFLPs/Pixel-Arts/blob/master/My%20PixelArts%20(Piskel%20-%20Pixel%20Studio)/SecondPixelArt_Pokeball_Animation.gif"/> Fun fact: I've watched over 200 animes!!
 
 ## Stats
 <p align="center">
