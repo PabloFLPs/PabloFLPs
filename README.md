@@ -39,6 +39,7 @@ Turn on default dark theme for best experience :)
 [![Linkedin_Badge](https://img.shields.io/badge/linkedin-%20-orange)](https://www.linkedin.com/in/pablo-felipe-lnkdn/)
 [![Twitter_Badge](https://img.shields.io/badge/twitter-%20-orange)](https://twitter.com/pablo_felps)
 [![DevCommunity](https://img.shields.io/badge/dev.to-%20-orange)](https://dev.to/pablofelps)
+[![MyAnimeList](https://img.shields.io/badge/MAL-%20-orange)](https://www.myanimelist.net/profile/PabloFelps)
 [![Bio Badge](https://img.shields.io/static/v1?label=hobbies&message=https://www.github.com/PabloFLPs/hobbies="Code%Gaming%Animes%Doramas"&color=orange)](https://www.github.com/PabloFLPs/)
 
 * * *
