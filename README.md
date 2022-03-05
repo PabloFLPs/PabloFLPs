@@ -18,11 +18,13 @@ Turn on default dark theme for best experience :)
 
 <img height="16" src="https://github.com/PabloFLPs/Pixel-Arts/blob/master/My%20PixelArts%20(Piskel%20-%20Pixel%20Studio)/SecondPixelArt_Pokeball_Animation.gif"/> Fun fact: I've watched over 200 animes!!
 
+
+
 * * *
 
 ## Projects
 
-### NextJS News Site
+### NextJS News Site:
 
 - Below you can access my News Application deployed on Vercel. It was made utilizing JavaScript as language, and NextJS as React framework.
 
@@ -30,7 +32,7 @@ Turn on default dark theme for best experience :)
   <img align="left" width="250" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/news_api.png"/>
 </a>
 
-**Description:** I made this based on the PortEXE youtube channel video [Coding A News App With Next.js](https://www.youtube.com/watch?v=xtItzwYG6oQ) to start my studying with NextJS. The news are setted to Brazil as location, but it can easily be changed inside the code.
+**Description:** I made this based on the PortEXE youtube channel video [Coding A News App With NextJS](https://www.youtube.com/watch?v=xtItzwYG6oQ) to start my studying with NextJS. The news are setted to Brazil as location, but it can easily be changed inside the code.
 
 ### Diversight (dis):
 
@@ -40,7 +42,17 @@ Turn on default dark theme for best experience :)
   <img align="left" width="250" src="https://github.com/PabloFLPs/ioasys-CAMP-2021-diversight/blob/master/logo/diversight_megumin.png"/>
 </a>
 
-**Description:** I was part of the ioasys CAMP 2021; my team and I developed a platform to measure the “diversity” in a company's workplace, with the goal of making the environment better for all cultures, sexualities, ethnicities and people with physical disabilities.
+**Description:** I was part of the [ioasys](https://ioasys.com.br/) CAMP 2021; my team and I developed a platform to measure the “diversity” in a company's workplace, with the goal of making the environment better for all cultures, sexualities, ethnicities and people with physical disabilities.
+
+### NextJS Pokedex:
+
+- Below you can access also my Pokedex deployed on Vercel. It was made utilizing JavaScript as language, Tailwind as CSS framework, NextJS as React framework and and finally the [PokeAPI](https://pokeapi.co/).
+
+<a href="http://next-js-poke-api-and-tailwind.vercel.app/">
+  <img align="left" width="250" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/pokeapi.png"/>
+</a>
+
+**Description:** I made this based on the video [Build a Pokedex with NextJS and Tailwind CSS](https://www.youtube.com/watch?v=LMRAEUPkFXI). It covers all 151 first generation pokemon, and shows pokemon weight, height, types and abilities. I haven't spend too much time styling it yet, but I plan to do it soon.
 
 * * *
 
