@@ -12,7 +12,7 @@ Turn on default dark theme for best experience :)
 ## About me:
 **Hi, I'm Pablo Felps!**
 
-- 🚀 I'm a back-end developer at [LeCode](https://github.com/LeCode)
+- 🚀 I'm a software developer at [LeCode](https://github.com/LeCode)
 - 💻 I'm an engineering computer student at [CEFET-MG](https://github.com/CEFET-MG)
 - ⚙️ I'm a marketing analyst at [Commit Jr.](https://github.com/CommitJr)
 
@@ -22,9 +22,19 @@ Turn on default dark theme for best experience :)
 
 ## Projects
 
-- Below you can access a link to my first back-end project deployed on Heroku. It was made utilizing JavaScript as language, and Sequelize as ORM with Postgres as database. 
+### NextJS News Site
+
+- Below you can access my News Application deployed on Vercel. It was made utilizing JavaScript as language, and NextJS as React framework.
+
+<a href="https://next-js-news-app-gold.vercel.app/">
+  <img align="left" width="250" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/news_api.png"/>
+</a>
+
+**Description:** I made this based on the PortEXE youtube channel video [Coding A News App With Next.js](https://www.youtube.com/watch?v=xtItzwYG6oQ) to start my studying with NextJS. The news are setted to Brazil as location, but it can easily be changed inside the code.
 
 ### Diversight (dis):
+
+- Below you can access a link to my first back-end project deployed on Heroku. It was made utilizing JavaScript as language, and Sequelize as ORM with Postgres as database.
 
 <a href="https://heroku-diversight.herokuapp.com">
   <img align="left" width="250" src="https://github.com/PabloFLPs/ioasys-CAMP-2021-diversight/blob/master/logo/diversight_megumin.png"/>
