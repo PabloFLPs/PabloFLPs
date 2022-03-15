@@ -52,7 +52,7 @@ Turn on default dark theme for best experience :)
   <img align="left" width="238" height="70" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/news-api.png"/>
 </a>
 
-**Description:** I made this based on the PortEXE youtube channel video [Coding A News App With NextJS](https://www.youtube.com/watch?v=xtItzwYG6oQ) to start my studying with NextJS. The news are setted to Brazil as location, but it can easily be changed inside the code. I haven't spend too much time styling it yet, but I plan to do it soon.
+**Description:** I made this based on the PortEXE youtube channel video [Coding A News App With NextJS](https://www.youtube.com/watch?v=xtItzwYG6oQ) to start my studying with NextJS. The news are located in Brazil, but it can easily be changed within code. I haven't spend too much time styling it yet, but I plan to do it soon.
 
 * * *
 
