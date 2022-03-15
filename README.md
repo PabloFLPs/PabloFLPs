@@ -52,7 +52,7 @@ Turn on default dark theme for best experience :)
   <img align="left" width="222" height="74" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/pokeapi.png"/>
 </a>
 
-**Description:** I made this based on the video [Build a Pokedex with NextJS and Tailwind CSS](https://www.youtube.com/watch?v=LMRAEUPkFXI). It covers all 151 first generation pokemon, and shows pokemon weight, height, types and abilities. I haven't spend too much time styling it yet, but I plan to do it soon.
+**Description:** I made this based on the video [Build a Pokedex with NextJS and Tailwind CSS](https://www.youtube.com/watch?v=LMRAEUPkFXI). It covers the 898 from all pokemon generations, and shows pokemon weight, height, types and abilities. I haven't spend too much time styling it yet, but I plan to do it soon.
 
 * * *
 
