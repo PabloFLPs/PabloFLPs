@@ -26,7 +26,7 @@ Turn on default dark theme for best experience :)
 
 ### NextJS Pokedex:
 
-- Below you can access also my Pokedex deployed on Vercel. It was made utilizing JavaScript as language, Tailwind as CSS framework, NextJS as React framework and and finally the [PokeAPI](https://pokeapi.co/).
+- Below you can access my Pokedex deployed on Vercel. It was made utilizing JavaScript as language, Tailwind as CSS framework, NextJS as React framework and and finally the [PokeAPI](https://pokeapi.co/).
 
 <a href="http://next-js-poke-api-and-tailwind.vercel.app/">
   <img align="left" width="238" height="74" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/pokeapi.png"/>
@@ -34,9 +34,19 @@ Turn on default dark theme for best experience :)
 
 **Description:** I made this based on the video [Build a Pokedex with NextJS and Tailwind CSS](https://www.youtube.com/watch?v=LMRAEUPkFXI). It covers from #1 Bulbasaur to #898 Calyrex; all pokemon generations. The application shows pokemon weight, height, types and abilities. Soon I will add "strong" and "weak" against data.
 
+### Ignite Platform:
+
+- This is my games application - Ignite. It is an application to search games and stay tuned about game details, also, upcoming titles, popular games and new games. Made utilizing [RAWG.io](https://rawg.io/).
+
+<a href="http://next-js-poke-api-and-tailwind.vercel.app/">
+  <img align="left" width="238" height="74" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/ignite-games-platform.png"/>
+</a>
+
+**Description:** I made this based on the Dev Ed youtuber Redux course. Started to study Redux for my web development knowledge and this project was very cool and informative to increase my skills. This application is made with React and Redux, utilizing Thunk and styled components.
+
 ### Diversight (dis):
 
-- Below you can access a link to my first back-end project deployed on Heroku. It was made utilizing JavaScript as language, and Sequelize as ORM with Postgres as database.
+- Also, you can access the link to my first back-end project deployed on Heroku. It was made utilizing JavaScript as language, and Sequelize as ORM with Postgres as database.
 
 <a href="https://heroku-diversight.herokuapp.com">
   <img align="left" width="238" height="72" src="https://github.com/PabloFLPs/ioasys-CAMP-2021-diversight/blob/master/logo/diversight_megumin.png"/>
@@ -46,7 +56,7 @@ Turn on default dark theme for best experience :)
 
 ### NextJS News Site:
 
-- Below you can access my News Application deployed on Vercel. It was made utilizing JavaScript as language, and NextJS as React framework.
+- And here you can stay tuned in the trending Brazil news with my News Application deployed on Vercel. It was made utilizing JavaScript as language, and NextJS as React framework.
 
 <a href="https://next-js-news-app-seven.vercel.app/">
   <img align="left" width="238" height="70" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/news-api.png"/>
