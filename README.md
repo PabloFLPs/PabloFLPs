@@ -38,7 +38,7 @@ Turn on default dark theme for best experience :)
 
 - This is my games application - Ignite. It is an application to search games and stay tuned about game details, also, upcoming titles, popular games and new games. Made utilizing [RAWG.io](https://rawg.io/).
 
-<a href="http://next-js-poke-api-and-tailwind.vercel.app/">
+<a href="https://ignite-redux-project-course.vercel.app/">
   <img align="left" width="238" height="74" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/ignite-games-platform.png"/>
 </a>
 
