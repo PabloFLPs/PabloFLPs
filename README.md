@@ -36,13 +36,13 @@ Turn on default dark theme for best experience :)
 
 ### Ignite Platform:
 
-- This is my games application - Ignite. It is an application to search games and stay tuned about game details, also, upcoming titles, popular games and new games. Made utilizing [RAWG.io](https://rawg.io/).
+- This is my Ignite games application. It is a place to search games and stay tuned about game details, and also upcoming titles, popular games and new games. Made utilizing [RAWG.io](https://rawg.io/).
 
 <a href="https://ignite-redux-project-course.vercel.app/">
   <img align="left" width="238" height="74" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/ignite-games-platform.png"/>
 </a>
 
-**Description:** I made this based on the Dev Ed youtuber Redux course. Started to study Redux for my web development knowledge and this project was very cool and informative to increase my skills. This application is made with React and Redux, utilizing Thunk and styled components.
+**Description:** I made this based on the Dev Ed youtuber Redux course. Started to study Redux for my web development knowledge and this project was very cool to increase my skills in Redux. Made with React & Redux, utilizing Thunk and styled components.
 
 ### Diversight (dis):
 
