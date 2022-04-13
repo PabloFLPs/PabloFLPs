@@ -39,7 +39,7 @@ Turn on default dark theme for best experience :)
 - This is my Ignite games application. It is a place to search games and stay tuned about game details, and also upcoming titles, popular games and new games. Made utilizing [RAWG.io](https://rawg.io/).
 
 <a href="https://ignite-redux-project-course.vercel.app/">
-  <img align="left" width="238" height="74" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/ignite-games-platform.png"/>
+  <img align="left" width="238" height="74" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/redux-ignite-app.png"/>
 </a>
 
 **Description:** I made this based on the Dev Ed youtuber Redux course. Started to study Redux for my web development knowledge and this project was very cool to increase my skills in Redux. Made with React & Redux, utilizing Thunk and styled components.
@@ -54,16 +54,35 @@ Turn on default dark theme for best experience :)
 
 **Description:** I was part of the [ioasys](https://ioasys.com.br/) CAMP 2021; my team and I developed a platform to measure the “diversity” in a company's workplace, with the goal of making the environment better for all cultures, sexualities, ethnicities and people with physical disabilities.
 
+### Podcastr Application:
+
+- This is the Podcastr Application, the NLW - Next Level Week 5 by Rocketseat project. It was made with TypeScript, NextJS and an independent JSON server application (repository [here](https://github.com/PabloFLPs/JSON-Sever-Podcastr-NextJS)).
+
+<a href="https://podcastr-next-js-tau.vercel.app/">
+  <img align="left" width="238" height="70" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/podcastr-application.png"/>
+</a>
+
+**Description:** I made this based on the Rocketseat's NLW 6 to start my studying with NextJS, which was my first contact with it. The application consists in a player that uses a JSON server application to get the podcasts data like the link to the podcast itself, images, duration and etc.
+
 ### NextJS News Site:
 
 - And here you can stay tuned in the trending Brazil news with my News Application deployed on Vercel. It was made utilizing JavaScript as language, and NextJS as React framework.
 
 <a href="https://next-js-news-app-seven.vercel.app/">
-  <img align="left" width="238" height="70" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/news-api.png"/>
+  <img align="left" width="238" height="70" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/news-api-application.png"/>
 </a>
 
 **Description:** I made this based on the PortEXE youtube channel video [Coding A News App With NextJS](https://www.youtube.com/watch?v=xtItzwYG6oQ) to start my studying with NextJS. The news are located in Brazil, but it can easily be changed within code. I haven't spend too much time styling it yet, but I plan to do it soon.
 
+### LetMeAsk Application:
+
+- This is the Podcastr Application, the NLW - Next Level Week 5 by Rocketseat project. It was made with TypeScript, React, Google Firebase with firebase auth and realtime database.
+
+<a href="https://letmeask-nlwtgthr.web.app/">
+  <img align="left" width="238" height="70" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/letmeask-application.png"/>
+</a>
+
+**Description:** This application is like a Q&A platform, the administrator can create rooms and then share the link to anyone. The user can make questions by submit and the room creator can highlight/mark as answered and delete questions.
 * * *
 
 ## Social:
