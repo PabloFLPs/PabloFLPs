@@ -76,7 +76,7 @@ Turn on default dark theme for best experience :)
 
 ### LetMeAsk Application:
 
-- This is the Podcastr Application, the NLW - Next Level Week 5 by Rocketseat project. It was made with TypeScript, React, Google Firebase with firebase auth and realtime database.
+- This is the LetMeAsk Application, the NLW - Next Level Week 5 by Rocketseat project. It was made with TypeScript, React, Google Firebase with firebase auth and realtime database.
 
 <a href="https://letmeask-nlwtgthr.web.app/">
   <img align="left" width="238" height="70" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/letmeask-application.png"/>
