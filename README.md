@@ -74,6 +74,16 @@ Turn on default dark theme for best experience :)
 
 **Description:** I made this based on the PortEXE youtube channel video [Coding A News App With NextJS](https://www.youtube.com/watch?v=xtItzwYG6oQ) to start my studying with NextJS. The news are located in Brazil, but it can easily be changed within code. I haven't spend too much time styling it yet, but I plan to do it soon.
 
+### Weather App:
+
+- Here you can check my Weather App. It uses the OpenWeatherMap: https://openweathermap.org to get the current weather situation from each city in the world.
+
+<a href="http://weather-app-react-redux-eight.vercel.app/">
+  <img align="left" width="238" height="70" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/weather-application.png"/>
+</a>
+
+**Description:** I made this based on a youtube channel video [React Weather App Using Redux](https://www.youtube.com/watch?v=HQyCNoWrZik) to continue my Redux studiyng. It was made with React, Redux, Redux Toolkit to ease the store configuration and Tailwind.
+
 ### LetMeAsk Application:
 
 - This is the LetMeAsk Application, the NLW - Next Level Week 5 by Rocketseat project. It was made with TypeScript, React, Google Firebase with firebase auth and realtime database.
