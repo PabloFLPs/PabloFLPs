@@ -76,7 +76,7 @@ Turn on default dark theme for best experience :)
 
 ### Weather App:
 
-- Here you can check my Weather App. It uses the OpenWeatherMap: https://openweathermap.org to get the current weather situation from each city in the world.
+- Here you can check my Weather App. It uses the Open Weather API: https://openweathermap.org to get the current weather situation from each city in the world.
 
 <a href="http://weather-app-react-redux-eight.vercel.app/">
   <img align="left" width="238" height="70" src="https://github.com/PabloFLPs/PabloFLPs/blob/main/images/weather-application.png"/>
